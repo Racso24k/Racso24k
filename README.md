@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://racso24k.github.io/"><img src="https://img.shields.io/badge/Portfolio-racso24k.github.io-1D9E75?style=flat-square" /></a>
-  <a href="https://linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/oscar-armas-47b5881a3"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:oscararmas2016@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
